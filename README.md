@@ -19,7 +19,7 @@ Add, complete, and manage your daily tasks with ease.
 git clone https://github.com/xunknown0/todo_list.git
 
 # Navigate into the project folder
-cd simple-todo-app
+cd todo_list
 
 # Install dependencies
 flutter pub get
