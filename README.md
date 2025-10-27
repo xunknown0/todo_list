@@ -16,7 +16,7 @@ Add, complete, and manage your daily tasks with ease.
 
 ```bash
 # Clone the repository
-git clone https://github.com/xunknown0/simple-todo-app.git
+git clone https://github.com/xunknown0/todo_list.git
 
 # Navigate into the project folder
 cd simple-todo-app
