@@ -1,16 +1,28 @@
-# todo_list
+# ✅ Simple Todo List App
+Stay organized and productive with this minimalist Flutter Todo app.  
+Add, complete, and manage your daily tasks with ease.
 
-A new Flutter project.
+---
 
-## Getting Started
+## ✨ Features
+📝 Add, edit, and delete tasks  
+📅 Mark tasks as complete or pending  
+🎨 Clean and simple Flutter UI  
+🌗 Light & dark mode support  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+# Clone the repository
+git clone https://github.com/xunknown0/simple-todo-app.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Navigate into the project folder
+cd simple-todo-app
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
